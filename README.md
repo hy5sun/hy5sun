@@ -1,25 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20😋&fontSize=90" />
 
-### Hi there 개발자가 되고 싶은 대학생입니다 👋
+<div align="center">
+  
+  ### Hi~!! there 👋 개발자가 되고 싶은 대학생입니다~!
 
 
-### MY SNS 😎
+  ### MY SNS 😎
 
-<a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
-<a href="https://blog.naver.com/rlagytjs213"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=black"/></a>
+  <a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
+  <a href="https://blog.naver.com/rlagytjs213"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=black"/></a>
 
-### StUdYinG 😈
+  ### StUdYinG 😈
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C language-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C language-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 
-### Tool 🐌
+  ### Tool 🐌
 
-<a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
-<a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
+  <a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy5sun)](https://github.com/hy5sun/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy5sun)](https://github.com/hy5sun/github-readme-stats)
 
+</div>
 <!--
 **hy5sun/hy5sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
