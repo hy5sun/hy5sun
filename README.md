@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome%20To%20My%20GitHub🧐&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome%To%My%GitHub🧐&fontAlign=70&stroke=d6ace6)
 
 ### Hi there 개발자가 되고 싶은 대학생입니다 👋
 
