@@ -1,6 +1,6 @@
 ### Hi there 개발자가 되고 싶다아 👋
 
-<a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <!--
 **hy5sun/hy5sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
