@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+
 ### Hi there 개발자가 되고 싶은 대학생입니다 👋
 
 
