@@ -17,7 +17,7 @@
 <a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim)
+Hyosun](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim)
 
 <!--
 **hy5sun/hy5sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
