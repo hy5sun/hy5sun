@@ -1,5 +1,7 @@
 ### Hi there 개발자가 되고 싶다아 👋
 
+### MY SNS 😎
+
 <a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
 <a href="https://blog.naver.com/rlagytjs213"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=black"/></a>
 
