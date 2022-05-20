@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To My Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20😋&fontSize=90" />
 
 ### Hi there 개발자가 되고 싶은 대학생입니다 👋
 
