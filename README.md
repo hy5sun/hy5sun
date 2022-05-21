@@ -1,7 +1,9 @@
 #
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20😋&fontSize=90" />
 
-<div align="center">
+ <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20😋&fontSize=90" />
+  
   
   ### Hi~!! there 👋 개발자가 되고 싶은 대학생입니다~!
 
@@ -21,10 +23,13 @@
   <a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
   <a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)
+  
+  </d>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim/)
   [![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy5sun)](https://github.com/hy5sun/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)
-</div>
+
 
 #
   
