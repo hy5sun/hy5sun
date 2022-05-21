@@ -5,9 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20😋&fontSize=90" />
   
   
-  ### Hi~!! there 👋 개발자가 되고 싶은 대학생입니다~!
+  ### Hi there~!!! 👋 
+  ### I'm Hyosun! I want to be a BackEnd / FrontEnd / App / Web developer!!!!!!
+  ### I'll find my way by challenging various things!
 
-
+ #
+ 
   ### MY SNS 😎 
   
   <a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
