@@ -7,7 +7,7 @@
   
   ### Hi there~!!! 👋 
   ### I'm Hyosun! I want to be a BackEnd / FrontEnd / App / Web developer!!!!!!
-  ### I'll find my way by challenging various things!
+  ### I'll find my way, challenging various things!
 
  #
  
