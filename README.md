@@ -6,8 +6,8 @@
   
   
   ### Hi there~!!! 👋 
-  ### I'm Hyosun! I want to be a BackEnd / FrontEnd / App / Web developer!!!!!!
-  ### I'll find my way, challenging various things!
+  ### I'm Hyosun and I wish to work in Back-end / Front-end development sector!!!!!!
+  ### By working through many challenges I hope to find what I am passionate in!!
 
  #
  
