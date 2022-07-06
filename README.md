@@ -13,9 +13,9 @@
  
   ### PROJECT 💎 with @lsuinl
   Cat Running Game (2021.12.13 ~ 2022.05.06) </p>
-  Sunba Fan Game (예정)
+  Sunba Fan Game (2022.07.06 ~ ) </p>
  
-  ### MY SNS 😎 (지금은 네이버블로그만 사용중!)
+  ### MY SNS 😎
   
   <a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
   <a href="https://blog.naver.com/rlagytjs213"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=black"/></a>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c#&logoColor=black"/></a>
 
-  ### Tool 🐌
+  ### Tools 🐌
   
   <a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
   <a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
