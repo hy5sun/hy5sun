@@ -6,14 +6,15 @@
   
   
   ### Hi there~!!! 👋 
-  ### I'm Hyosun and I wish to work in Back-end / Front-end development sector!!!!!!
+  ### I'm Hyosun and I wish to work in Back-End development sector!!!!!!
   ### By working through many challenges I hope to find what I am passionate in!!
 
  #
  
-  ### PROJECT 💎 with @lsuinl
+  ### PROJECT 💎
   Cat Running Game (2021.12.13 ~ 2022.05.06) </p>
   Sunba Fan Game (2022.07.06 ~ ) </p>
+  AhriRang (APP) (2022.09.19 ~ 2022.10.07) </p>
  
   ### MY SNS 😎
   
@@ -24,15 +25,16 @@
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c#&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 
   ### Tools 🐌
   
   <a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
   <a href="https://github.com/hy5sun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)
   
