@@ -14,7 +14,7 @@
   ### PROJECT 💎
   Cat Running Game (2021.12.13 ~ 2022.05.06) </p>
   Sunba Fan Game (2022.07.06 ~ ) </p>
-  AhriRang (APP) (2022.09.19 ~ 2022.10.07) </p>
+  AhriRang (APP) (2022.09.19 ~ ) </p>
  
   ### MY SNS 😎
   
