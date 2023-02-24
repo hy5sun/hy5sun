@@ -14,7 +14,7 @@
   
   <a href="https://velog.io/@ssunykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-  ### ✨ STUDYING/ ✨
+  ### ✨ STUDYING / TOOL ✨
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
