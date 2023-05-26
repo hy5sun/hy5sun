@@ -4,9 +4,8 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=FC60A8&height=200&section=header&text=Welcome%20😋&fontColor=FFDD00&fontSize=90" />
   
-  ### Hi there~!!! 👋 
+  ### Hi there! 👋 
   ### I'm Hyosun and I wish to work in Back-End development sector.
-  ### By working through many challenges I hope to find what I am passionate in! ✏️
  
  #
  
@@ -17,8 +16,12 @@
   ### ✨ STUDYING / TOOL ✨
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  
+  
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-0E85CD?style=flat-square&logo=intellijidea&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
