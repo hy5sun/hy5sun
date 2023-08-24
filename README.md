@@ -18,9 +18,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
   
-  
+ 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-0E85CD?style=flat-square&logo=intellijidea&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a>
@@ -28,14 +27,14 @@
   
   </d>
   
-  ### ❄️
+  <!--### ❄️
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)
   
   
   
-  ### 🌈
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim/)
+   ### 🌈
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim/)-->
   
   ### 🍰
   [![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy5sun)](https://github.com/hy5sun/github-readme-stats)
