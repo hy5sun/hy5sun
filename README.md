@@ -29,12 +29,12 @@
   
   <!--### ❄️
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy5sun&layout=compact&theme=buefy)-->
   
   
   
    ### 🌈
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim/)-->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssunykim)](https://solved.ac/ssunykim/)
   
   ### 🍰
   [![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy5sun)](https://github.com/hy5sun/github-readme-stats)
