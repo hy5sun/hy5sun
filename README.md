@@ -14,6 +14,12 @@
 
 <br>
 
+## 👨🏻‍💼 Portfolio
+
+https://canva.link/rhbar4hooixea1l
+
+<br>
+
 ## 🛠 Tech Stack
 
 #### Main
